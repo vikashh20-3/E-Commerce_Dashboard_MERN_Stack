@@ -1,0 +1,44 @@
+
+.footer{
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #ffff;
+  bottom: 0;
+  background-color: skyblue;
+}
+.nav-ul{
+  background-color: skyblue;
+  margin: 0;
+}
+.nav-ul li{
+  margin: 0;
+  display: inline-block;
+  padding: 10px;
+}
+.nav-ul li a {
+  color:#ffff;
+  padding: 5px;
+  text-decoration: none;
+}
+.signup{
+  margin-left: 35%;
+}
+.btn-signup{
+  margin-left: 30px;
+  height: 30px;
+  background-color: skyblue;
+  border: 2px solid rgb(12, 103, 126);
+  color: white;
+  font-weight: bolder;
+  font-size: large;
+  width: 300px;
+}
+.input{
+  margin: 25px;
+  width: 300px;
+  padding: 7px;
+  display: block;
+  border: 1;
+  border-color: skyblue;
+}
